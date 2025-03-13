@@ -2,8 +2,8 @@
 
 Android application using ExoPlayer for media playback.
 <div>
-   <img src="assets/4k.gif" style="height:auto; width:20vw; maxWidth:500px">
-   <img src="assets/1080p.gif" style="height:auto; width:20vw;maxWidth:500px">
+   <img src="assets/4k.gif" style="height:auto; width:20vw; max-width:200px">
+   <img src="assets/1080p.gif" style="height:auto; width:20vw;max-width:200px">
 </div>
 
 ## Requirements
