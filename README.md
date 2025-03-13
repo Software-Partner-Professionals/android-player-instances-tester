@@ -1,9 +1,10 @@
 # PlayerInstances
 
 Android application using ExoPlayer for media playback.
-
-![4K EXAMPLE](assets/4k.gif)
-![1080P EXAMPLE](assets/1080p.gif)
+<div>
+   <img src="assets/4k.gif" style="height:auto; width:20vw;">
+   <img src="assets/1080p.gif" style="height:auto; width:20vw;">
+</div>
 
 ## Requirements
 
