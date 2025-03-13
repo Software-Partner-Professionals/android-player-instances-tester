@@ -1,6 +1,6 @@
 # PlayerInstances
 
-Android application using ExoPlayer for media playback.
+Android application for testing the max number of device video decoders using ExoPlayer for media playback.
 
 ## Example
 <div>
