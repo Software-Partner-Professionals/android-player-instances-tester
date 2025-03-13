@@ -17,7 +17,7 @@ Android application using ExoPlayer for media playback.
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/Software-Partner-Professionals/android-player-instances-tester.git
 ```
 
 2. Open the project in Android Studio:
