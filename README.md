@@ -2,6 +2,9 @@
 
 Android application using ExoPlayer for media playback.
 
+![4K EXAMPLE](assets/4k.gif)
+![1080P EXAMPLE](assets/1080p.gif)
+
 ## Requirements
 
 - Android Studio Hedgehog | 2023.1.1 or newer
